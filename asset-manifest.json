@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.075f92ca.css",
+    "main.js": "/weather-app/static/js/main.a4542825.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/clouds.mp4": "/weather-app/static/media/clouds.05e3e5d33bbfd27aba1f.mp4",
+    "static/media/globe.gif": "/weather-app/static/media/globe.327e5d7764e1fc2d6037.gif",
+    "static/media/primeicons.svg": "/weather-app/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/weather-app/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/weather-app/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/primeicons.eot": "/weather-app/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/weather-app/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/weather-app/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/weather-app/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/weather-app/index.html",
+    "main.075f92ca.css.map": "/weather-app/static/css/main.075f92ca.css.map",
+    "main.a4542825.js.map": "/weather-app/static/js/main.a4542825.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075f92ca.css",
+    "static/js/main.a4542825.js"
+  ]
+}
