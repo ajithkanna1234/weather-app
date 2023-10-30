@@ -1,0 +1,42 @@
+.o{
+    height: 100vh;
+    width: 100%;
+    background: transparent;
+    display: grid;
+    place-items: center;
+}
+.ob{
+    font-size: smaller;
+    padding:20px 0;
+    border-radius: 10px;
+    height: fit-content;
+    width: fit-content;
+    background-color: rgba(0, 0, 0, 0.788);
+    letter-spacing: 1px;
+    line-height: 50px;
+    text-align: center;
+    color: dodgerblue;
+}
+h1{
+    margin: 20px;
+    color: white;
+}
+h5 span{
+    color: red;
+}
+.table,tr,th{
+    margin: auto;
+    width: auto;
+    padding: 0 10px;
+}
+.table td{
+    color: white;
+    font-weight: bolder;
+}
+video{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}

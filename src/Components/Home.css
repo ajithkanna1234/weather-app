@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#card{
+    padding: 30px;
+    height: fit-content;
+    width: fit-content;
+    line-height: 40px;
+    background:rgba(0, 0, 0, 0.737);
+    letter-spacing: 1px;
+    color: dodgerblue;
+}
+.card{
+    height: 100vh;
+    width: 100vw;
+}
+video{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.bg{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    /* overflow: hidden; */
+    background-color: rgba(0, 0, 0, 0.605);
+}
+img{
+    height: 60px;
+}
+#In{
+    margin-top: 25px;
+    padding: 8px;
+    background-color:transparent;
+}
+Button{
+    margin-left: 5px;
+    padding:8px;
+}
